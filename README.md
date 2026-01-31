@@ -24,4 +24,4 @@ Projeyi Python kullanarak geliştirdim.
 * **Araçlar:** FPDF (Sınav kağıdı ve not dökümü oluşturmak için)
 
 ---
-💻 *Bu proje benim kişisel öğrenme yolculuğumda karşılaştığım zorluğa getirdiğim bir çözümdür.*
+✨  *Bu proje benim kişisel öğrenme yolculuğumda karşılaştığım zorluğa getirdiğim bir çözümdür.*
