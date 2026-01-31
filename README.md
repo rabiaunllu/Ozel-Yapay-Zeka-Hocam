@@ -1,0 +1,1 @@
+# -zel-Yapay-Zeka-Hocam
