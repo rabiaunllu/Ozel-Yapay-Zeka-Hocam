@@ -9,7 +9,7 @@ Bu uygulama, yüklediğim PDF notlarını alıyor ve seçtiğim moda göre benim
 Ders çalışırken en büyük sorunum, yüzlerce sayfalık notların içinde önemli yerleri bulmak, her biri için özet çıkarmak ve öğrendiklerimi soru çözerek pekiştirememekti. Bu uygulama hem benim için hem de öğretmenler için şunları yapıyor:
 
 * **📄 Notları Yüklüyorum:** PDF ders notlarımı sisteme atıyorum, yapay zeka saniyeler içinde okuyor.
-* **🎭 Hoca Modunu Seçiyorum:** Anlama tarzıma göre hocayı ayarlıyorum. Bazen **"Sert bir Profesör"** gibi disiplinli anlatıyor, bazen **"Kanka"** modunda basitçe özetliyor. Bazen de **kendi istediğim hoca karakterini özel komut yazarak** oluşturuyorum.
+* **🎭 Hoca Modunu Seçiyorum:** Anlama tarzıma göre hocayı ayarlıyorum. Bazen **"Sert bir Profesör"** gibi disiplinli anlatıyor, bazen **"Arkadaş"** modunda basitçe özetliyor. Bazen de **kendi istediğim hoca karakterini özel komut yazarak** oluşturuyorum.
 * **💬 Sohbet Ederek Çalışıyorum:** "Hocam şu konuyu anlamadım, örnek verir misin?" diye soruyorum, cevaplıyor. Sohbet geçmişini **PDF** olarak indirip notlarımı kalıcı hale getirebiliyorum.
 * **📝 Sınav Oluşturuyorum (Öğrenci & Öğretmen Dostu):**
     * "Bana bu notlardan zor bir sınav hazırla" diyorum; test, klasik veya karma sorularla istediğim sayıda soru oluşturuyor. (İstediğim soru tarzını özel olarak belirtebiliyorum).
