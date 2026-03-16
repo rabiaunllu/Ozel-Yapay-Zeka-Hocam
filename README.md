@@ -22,6 +22,9 @@ Projeyi Python kullanarak geliştirdim.
 * **Arayüz:** Streamlit (Hızlı ve modern bir web arayüzü için)
 * **Beyin:** Google Gemini 2.5 Flash Modeli (Hızlı ve akıllı cevaplar için)
 * **Araçlar:** FPDF (Sınav kağıdı ve not dökümü oluşturmak için)
+  
+##Uygulamanın Demosuna Ulaşmak İçin:
+ * **https://ozel-yapay-zeka-hocam-sayuf449fsgrbjaesn8jvw.streamlit.app/ 
 
 ---
 ✨  *Bu proje benim kişisel öğrenme yolculuğumda karşılaştığım zorluğa getirdiğim bir çözümdür.*
